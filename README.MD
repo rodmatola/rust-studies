@@ -11,3 +11,4 @@ The exercices can be found in [URI Online Judge](https://www.urionlinejudge.com.
 - [1002 - Area of a Circle](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
 
 - [1008 - Salary](https://www.urionlinejudge.com.br/judge/en/problems/view/1008)
+- [1014 - Consumption](https://www.urionlinejudge.com.br/judge/en/problems/view/1014)
